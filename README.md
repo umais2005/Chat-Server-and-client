@@ -1,1 +1,1 @@
-# Virtual-Tea-Party
+# Chat server and client
